@@ -1,0 +1,27 @@
+MINUTES - 4/3/20:
+
+Present: Raymond, Dan
+
+- We must have 1 test file per 1 function to be tested
+    - For readability
+    - This will allow our whole test suite to be run if a function breaks allowing all other test functions to be tested
+
+- Test files will have the following format
+    - <file_name>_<function_name>_test.py
+
+- Dummy data should not be too static (not useful for it 2 and 3)
+    - try and use the actual functions that are to be implemented to create dummy data
+    - Sunny proposed @pytest.fixture for our dummy data.
+	- dummy_data.py could best be implemented at the end
+
+- Branch off test_branch into your own branches (may be multiple depending on features)
+    - If person A wants to work on auth.py
+    - Person A should branch off test_branch into 1 branch e.g. test_auth_personA_branch
+
+    - If person A wants to work on auth.py and user.py
+    - Person A should branch off test_branch into 2 branches e.g. test_auth_personA_branch and test_user_personA_branch
+
+    - Individual branch merges MUST BE REQUESTED back into test_branch
+
+    - Branch names will have the following format
+        - test_<file_name>_branch

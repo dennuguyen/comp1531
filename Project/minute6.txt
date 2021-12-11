@@ -1,0 +1,9 @@
+MINUTES - 16/3/2020:
+
+Present:
+- 
+
+Topics:
+- Flow:
+    - user profile, register, login, channel <=> channels
+- Finalising task allocations

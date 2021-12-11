@@ -1,0 +1,23 @@
+MINUTES - 9/3/20:
+
+Present: Raymond, Dan
+
+auth
+- token, authentication hash
+- multiple login assumption changed to same token
+- auth token is time complex?
+
+slackr owner permissions
+- submit merge request for channels anyways where slackr owner joins every channel (for iteration 1)
+- Consider Raymond's suggested alternate method for slackr owner permissions:
+    e.g. def channel_addowner():
+            if u_id in channel_details() or **u_id == 1**
+
+- review the code:
+    - if test does not go under exception then do nothing except for invalid token which always raises AccessError
+    - white space name for loop
+    - warnings and errors in other test files
+
+TIPS FOR IT 3
+- hidden user feature
+- make slackr owner a hidden user

@@ -1,0 +1,11 @@
+MINUTES 5 - 13/3/2020:
+
+Present:
+- Dan, Raymond, Sunny
+
+Topics:
+- Should work on iteration 2 src files based on the flow of the program
+    - Must start at root of used functions
+    - H/W: Figure out the flow and present at next meeting
+- Password is stored as a hash, token 
+- Issues are on the gitlab taskboard, pick one for yourself and work on it

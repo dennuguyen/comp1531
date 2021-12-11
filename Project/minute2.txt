@@ -1,0 +1,17 @@
+TO DO:
+- Fix repository
+- Sprints (gitlab taskboard & due dates)
+- Task allocation for late-coming members
+- Introduce assumptions.md
+- Standardise style for writing tests
+
+
+MINUTES - 2/3/20:
+
+Present: Sunny, Dan, Raymond
+
+Topics:
+- test files must be in src folder
+- updated the task allocations on gitlab board
+    - please check the gitlab board for your tasks
+- dedicate a couple days (weekend) to reading/finalising all test files

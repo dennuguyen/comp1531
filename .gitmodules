@@ -1,0 +1,6 @@
+[submodule "Project/F13B-git-push-me-out-a-window"]
+	path = Project/F13B-git-push-me-out-a-window
+	url = git@gitlab.com:dennuguyen/comp1531-proj.git
+[submodule "Project/front"]
+	path = Project/front
+	url = git@gitlab.com:dennuguyen/comp1531-proj-front.git

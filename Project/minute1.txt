@@ -1,0 +1,50 @@
+TO DO:
+
+1. Create COMP1531 team
+
+2. Get to know the team:
+    a. Previous group experience
+    b. Confidence with programming / git
+    c. Wish to learn ___?
+    d. Fallacies
+
+3. Review the assignment:
+    a. Writing tests / documentation
+        i. single file vs multiple files
+        ii. test folder vs src folder
+    b. git and git style
+        i. branch per feature
+        ii. only commit working code
+        iii. push often
+        iv. merge ONLY WORKING features (i.e. branches) to master
+    c. AGILE methods (e.g. standups)
+    d. Gitlab taskboard
+    e. Main chat platform
+
+4. assumptions.md
+
+
+MINUTES - 28/2/20:
+
+Present: Jack, Dan
+
+Topics:
+- writing tests with documentations
+    - in order to write tests understand:
+        1. name for context
+        2. function parameters
+        3. function return
+- writing assumptions
+- multiple test files within 1 test folder
+- work on "test" branch
+- read project README.md
+- task allocations:
+    Jack
+        - auth.py
+        - message.py
+        - other.py
+        - user.py
+    Dan
+        - channel.py
+        - channels.py
+        - error.py

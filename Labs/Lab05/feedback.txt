@@ -1,0 +1,7 @@
+1.team.md: could've been more detailed
+2.simple.py: good
+3.authtest.py: tests look ok however didn't run on my computer
+4.drykiss.py: good
+5.primes.py: good work
+6.jwt.md: not attempted
+7.encapsulate.py: no need for an AGE class, just have a get_age() method in student
